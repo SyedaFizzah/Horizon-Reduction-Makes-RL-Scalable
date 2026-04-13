@@ -60,13 +60,12 @@ horizon-reduction/
 ├── agents/
 │   ├── sharsa.py      ← SHARSA agent (the proposed method)
 │   ├── gciql.py       ← GC-IQL agent (the baseline we compare against)
-│
-│── analysis of horizon reduction.ipynb
 |
 ├── envs/              ← Environment wrappers (do not modify)
 ├── utils/             ← Helper functions — networks, datasets, logging
 ├── assets/            ← Images used in the paper's README
 │
+│── analysis of horizon reduction.ipynb
 ├── main.py            ← THE MAIN FILE — runs training for any agent
 ├── requirements.txt   ← All Python libraries needed
 └── README.md          ← This file
