@@ -65,6 +65,7 @@ horizon-reduction/
 ├── utils/             ← Helper functions — networks, datasets, logging
 ├── assets/            ← Images used in the paper's README
 │
+│── teaser.png
 │── analysis of horizon reduction.ipynb
 ├── main.py            ← THE MAIN FILE — runs training for any agent
 ├── requirements.txt   ← All Python libraries needed
