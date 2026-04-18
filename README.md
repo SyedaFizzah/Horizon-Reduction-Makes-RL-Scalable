@@ -12,7 +12,7 @@
 
 This project is a study of a research paper that asks a simple but important question:
 
-> *Why do most Reinforcement Learning (RL) algorithms stop improving even when you give them more data?*
+> *Why do most Offline Reinforcement Learning (RL) algorithms stop improving even when you give them more data?*
 
 The paper's answer is: **the horizon is too long.**
 
